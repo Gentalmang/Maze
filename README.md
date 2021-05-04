@@ -1,8 +1,4 @@
-# program-4-bloomin-mazement-Gentalmang
-program-4-bloomin-mazement-Gentalmang created by GitHub Classroom
+# Maze-Gentalmang
+Generate a maze and solve it using breadth first search, the result is dispalyed in both drawing and ASCII stlye
 
-
-after compile the program, use something like java -cp target/prog4-1.0-SNAPSHOT.jar ca.unbsj.cs2383.Maze 1
-
-
-to run it.
+Add asjr4.jar to your local library if the compiler says something like "can not resolve edu.princeton.cs.algs4"
